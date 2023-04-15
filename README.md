@@ -9,9 +9,6 @@
 Install app using:
 `npm ci`
 
-Install husky webhooks using:
-`npm run prepare`
-
 ### Usage
 
 Create `./env` in the root either manually or by running command below. Fill env variables:
