@@ -6,18 +6,20 @@
 
 ### Initial setup
 
-Install app using:
-`npm ci`
+1. Install app using:
+
+- `npm ci`
 
 ### Usage
 
-Create `./env` in the root either manually or by running command below. Fill env variables:
-`cp .sample.env .env`
+1. Create `./env` in the root either manually or by running command below. Fill env variables:
 
-Start app using:
-`npm run start`
+- `cp .sample.env .env`
 
-Open API documentation:
-`http://localhost:3000/api`
+2. Start app using:
 
-Test exposed endpoints
+- `npm run start`
+
+3. Open [API documentation](http://localhost:3000/api):
+
+4. Test exposed endpoints
